@@ -1,0 +1,26 @@
+{
+    "ignore": {
+        "useGitignore": true,
+        "useDefaultPatterns": true,
+        "customPatterns": [
+            "components/ui",
+            "supabase/add_*.sql",
+            "supabase/fix_*.sql",
+            "supabase/grant_*.sql",
+            "supabase/inspect_*.sql",
+            "supabase/update_*.sql",
+            "scripts",
+            "postcss.config.mjs",
+            "next-env.d.ts",
+            "components.json",
+            "tsconfig.tsbuildinfo",
+            "*.png",
+            "*.jpg",
+            "*.jpeg",
+            "*.gif",
+            "*.svg",
+            "*.ico",
+            ".DS_Store"
+        ]
+    }
+}
