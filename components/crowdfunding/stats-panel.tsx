@@ -123,7 +123,7 @@ export function StatsPanel() {
           <p className="text-2xl font-semibold text-foreground">
             {Math.floor((totalPledged / campaign.stats.goalAmount) * 100)}%
           </p>
-          <p className="text-sm text-muted-foreground">funded</p>
+          <p className="text-sm text-muted-foreground">sold out</p>
         </div>
       )}
 
